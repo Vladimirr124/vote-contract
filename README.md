@@ -1,62 +1,22 @@
-# Vote-Contract Documentation
+# VOTE-CONTRACT
 
-## Overview
-Vote-contract is a developer tool designed to streamline the creation, testing, and deployment of blockchain-based voting systems on Ethereum. It provides a standardized environment with integrated deployment scripts, testing frameworks, and smart contract management to facilitate secure, transparent, and efficient decentralized elections.
+*Empowering Transparent, Secure, and Fair Voting Systems*
 
-## Features
-- **Development Environment**: Configured with Hardhat and Solidity version control for consistent smart contract development.
-- **Deployment Automation**: Scripts for reliable and repeatable contract deployment processes.
-- **Secure Voting Logic**: A smart contract that enforces voting rules, prevents multiple votes, and manages the election lifecycle.
-- **Testing Framework**: Built-in tests to validate election functionality and ensure contract integrity.
-- **Workflow Integration**: Supports streamlined experimentation, validation, and deployment of Ethereum-based voting applications.
+[![last commit today](https://img.shields.io/github/last-commit/Vladimirr124/vote-contract?style=flat&logo=git&logoColor=white&color=0080ff)](https://github.com/Vladimirr124/vote-contract)  
+[![javascript 74.1%](https://img.shields.io/github/languages/top/Vladimirr124/vote-contract?style=flat&color=0080ff)](https://github.com/Vladimirr124/vote-contract)  
+[![languages 2](https://img.shields.io/github/languages/count/Vladimirr124/vote-contract?style=flat&color=0080ff)](https://github.com/Vladimirr124/vote-contract)
 
-## Technologies
-- **Programming Language**: JavaScript
-- **Package Manager**: npm
-- **Additional Tools**:
-  - JSON
-  - Markdown
-  - Hardhat (for Ethereum development)
-  - Solidity (for smart contract development)
+*Built with the tools and technologies:*
 
-## Getting Started
+[![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white)](https://github.com/Vladimirr124/vote-contract)  
+[![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white)](https://github.com/Vladimirr124/vote-contract)  
+[![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)](https://github.com/Vladimirr124/vote-contract)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)](https://github.com/Vladimirr124/vote-contract)
 
-### Prerequisites
-To use vote-contract, ensure you have the following dependencies installed:
-- **JavaScript**: Required for scripting and running the project.
-- **npm**: Package manager for installing dependencies.
-
-### Installation
-Follow these steps to set up the vote-contract project:
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/Vladimirr124/vote-contract
-   ```
-2. **Navigate to the project directory**:
-   ```sh
-   cd vote-contract
-   ```
-3. **Install dependencies**:
-   ```sh
-   npm install
-   ```
-
-### Usage
-To run the project, execute:
-```sh
-npm start
-```
-
-### Testing
-Vote-contract includes a testing framework to validate functionality. Run the test suite with:
-```sh
-npm test
-```
-
-## Repository Details
-- **Top Language**: JavaScript
-- **Language Count**: Multiple languages, including JavaScript, JSON, and Markdown.
-- **GitHub Repository**: [https://github.com/Vladimirr124/vote-contract](https://github.com/Vladimirr124/vote-contract)
-
-## Notes
-- The project is designed for Ethereum-based voting systems, emphasizing security and transparency.
+## Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
