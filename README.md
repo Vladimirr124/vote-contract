@@ -20,3 +20,40 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+
+## Overview
+Vote-contract is a powerful developer tool designed to simplify the creation, testing, and deployment of blockchain-based voting systems on Ethereum. It provides a standardized environment with integrated deployment scripts, testing frameworks, and smart contract management to streamline your workflow.
+
+## Getting Started
+
+### Prerequisites
+This project requires the following dependencies:
+- **Programming Language**: JavaScript
+- **Package Manager**: npm
+
+### Installation
+Build vote-contract from the source and install dependencies:
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Vladimirr124/vote-contract
+   ```
+2. **Navigate to the project directory**:
+   ```sh
+   cd vote-contract
+   ```
+3. **Install the dependencies**:
+   ```sh
+   npm install
+   ```
+
+### Usage
+Run the project with:
+```sh
+npm start
+```
+
+### Testing
+Vote-contract uses a test framework to validate functionality. Run the test suite with:
+```sh
+npm test
+```
