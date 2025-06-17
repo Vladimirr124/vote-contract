@@ -54,11 +54,9 @@ npm test
 ```
 
 ## Repository Details
-- **Last Updated**: 2 weeks ago (as of the provided data).
 - **Top Language**: JavaScript
 - **Language Count**: Multiple languages, including JavaScript, JSON, and Markdown.
 - **GitHub Repository**: [https://github.com/Vladimirr124/vote-contract](https://github.com/Vladimirr124/vote-contract)
 
 ## Notes
 - The project is designed for Ethereum-based voting systems, emphasizing security and transparency.
-- Full codebase documentation is marked as "Coming Soon" in the interface, indicating potential future enhancements.
